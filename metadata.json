@@ -1,0 +1,5 @@
+{
+  "name": "Firebase IoT Bridge",
+  "description": "Control ESP devices via Firebase Realtime Database. Features AI-powered command generation using Google Gemini.",
+  "requestFramePermissions": []
+}
